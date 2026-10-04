@@ -141,6 +141,9 @@
 
 //Вариант 5
 
+using System.ComponentModel.DataAnnotations;
+using System.Net.NetworkInformation;
+
 string correct = "1234";
 
 while (true)
